@@ -11,7 +11,8 @@
 
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nowidas&hide=jupyter%20notebook&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+[![](https://visitcount.itsvg.in/api?id=Nowidas&label=Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **Nowidas/Nowidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
