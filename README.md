@@ -1,9 +1,9 @@
 # ✨ About Me:
 
 👋 Hi, I'm Łukasz ! \
-👀 I'm interested in Python, App Development, Data menagment or analyst \
-🌱 I'm currently studing last year Computer Science, and looking for a job as a Dev or Data eng. \
-🔭 In a spare time I'm building my personal self hosted server (configs and architecture soon) \
+👀 I'm interested in Python, App Development, Data management and analyst \
+🌱 I'm currently studying last year Computer Science, and looking for a job as a Dev or Data eng. \
+🔭 In my spare time I'm building my personal self-hosted server (configs and architecture soon) \
 📫 How to reach me: lukaszkrupczak@gmail.com or [LinkedIn](https://www.linkedin.com/in/lukasz-krupczak/)
 
 # 💻 Tech Stack:
