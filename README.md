@@ -1,9 +1,10 @@
 # ✨ About Me:
 
 👋 Hi, I'm Łukasz ! \
-👀 I'm interested in Python, App Development, Data management and analyst \
-🌱 I'm currently studying last year Computer Science, and looking for a job as a Dev or Data eng. \
-🔭 In my spare time I'm building my personal self-hosted server (configs and architecture soon) \
+👀 I'm interested in Python, Automation, Generative AI, Data Analytics, Machine Learning, DevOps techniques and sometimes algo trading \
+🌱 I'm currently working as a full-time junior Python developer, maintaining and developing automatization for reporting system  \
+🔭 In my spare time I'm passionate about self-hosted services, which I run and test on my server \
+🎯 I'm aiming to become AI Developer, I studied Machine learning, and self-study a lot \
 📫 How to reach me: lukaszkrupczak@gmail.com or [LinkedIn](https://www.linkedin.com/in/lukasz-krupczak/)
 
 # 💻 Tech Stack:
